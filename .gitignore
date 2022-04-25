@@ -1,0 +1,15 @@
+*.asta
+*.pyc
+*.lnk
+*.bak
+*.pdf
+*.rdf
+*.n3
+*.ttl
+*.txt
+*.doc*
+*.json
+~*.*
+*report*
+*dbg*
+*.ipynb
